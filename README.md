@@ -1,13 +1,9 @@
 ## Hey! 👋
 I'm Bakhtibek Anvarov, a 17 years old web developer from Uzbekistan.
 
-<!-- - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto) -->
-
-<!-- - 👥 Core team member at [@nestdotland](https://github.com/nestdotland) -->
-
 ## Skills
 - 👨‍💻 JavaScript, Ruby, Java, C
-- ⚙️ React
+- ⚙️ React, Express, Ruby on Rails
 - 👁️ CSS, Bootstrap, TailwindCSS
 - 💽 MySQL, SQL, Mongo
 
