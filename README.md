@@ -8,9 +8,9 @@ I'm Bakhtibek Anvarov, a 17 years Full Stack developer from Uzbekistan.
 - **Databases**: &nbsp;&nbsp;                    MongoDB, PosqtgreSQL, SQLite
 
 ### Certifications 📜
-- [INTRODUCTION TO SOFTWARE ENGINEERING](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
-- [FULLSTACK ENGINEERING](https://upskill.us.qwasar.io/certificates/MTM1Ni1hbnZhcm92X2ItanVsLTIwMjEtMzAtYzQ0ZQ==) Qwasar
-- [INTRODUCTION TO FULLSTACK DEVELOPMENT](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
+- [Introduction To Software Engineering](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
+- [Fullstack Engineering](https://upskill.us.qwasar.io/certificates/MTM1Ni1hbnZhcm92X2ItanVsLTIwMjEtMzAtYzQ0ZQ==) Qwasar
+- [Introduction To Fullstack Development](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
 
 ## Contact
 - [Portfolio](https://anvarovb-portfolio.herokuapp.com/) Web Portfolio
