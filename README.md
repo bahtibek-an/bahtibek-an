@@ -15,5 +15,5 @@ I'm Bakhtibek Anvarov, a 17 years Full Stack developer from Uzbekistan.
 ## Contact
 - [Portfolio](https://anvarovb-portfolio.herokuapp.com/) My Website
 - [bahtibekanvarov@gmail.com](./) Email
-- [@bahtibekanvarov](https://instagram.com/bakhtibekanvarov) on Instagram
+- [@bakhtibekanvarov](https://instagram.com/bakhtibekanvarov) on Instagram
 - [Bahtibek Anvarov#4872](./) on Discord
