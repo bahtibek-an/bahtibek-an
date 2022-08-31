@@ -1,17 +1,11 @@
 ## Hey! 👋
-I'm Bakhtibek Anvarov, a 17 years old web developer from Uzbekistan.
-
-## Skills
-- 👨‍💻 JavaScript, Ruby, Java, C
-- ⚙️ React, Express, Ruby on Rails
-- 👁️ CSS, Bootstrap, TailwindCSS
-- 💽 MySQL, SQL, Mongo
+I'm Bakhtibek Anvarov, a 17 years Full Stack developer from Uzbekistan.
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          JavaScript, Ruby, Java, C
-- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn, PyTorch, Transformers
-- **Big Data**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hadoop, Hive, Spark
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI/CD
+- **Backend**: &nbsp;&nbsp;                      Express, NodeJS, Ruby on Rails, Spring Boot
+- **Frontend*: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ReactJS, Bootstrap, Tailwind, CSS
+- **Databases**:  &nbsp;&nbsp;&nbsp;&nbsp;       MongoDB, PosqtgreSQL, SQLite
 
 ## Contact
 - [Portfolio](https://anvarovb-portfolio.herokuapp.com/)
