@@ -12,7 +12,7 @@ I'm Bakhtibek Anvarov, a 17 years old web developer from Uzbekistan.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [portfolio](https://anvarovb-portfolio.herokuapp.com/)
+- [Portfolio](https://anvarovb-portfolio.herokuapp.com/)
 - [@bahtibekanvarov](https://twitter.com/martonlederer) on Twitter
 - [@bahtibekanvarov](https://instagram.com/bakhtibekanvarov) on Instagram
 - [Bahtibek Anvarov#4872](./) on Discord
