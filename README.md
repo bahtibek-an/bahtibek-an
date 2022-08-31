@@ -8,7 +8,6 @@ I'm Bakhtibek Anvarov, a 17 years Full Stack developer from Uzbekistan.
 - **Databases**: &nbsp;&nbsp;                    MongoDB, PosqtgreSQL, SQLite
 
 ## Contact
-- [Portfolio](https://anvarovb-portfolio.herokuapp.com/)
-- [@bahtibekanvarov](https://twitter.com/martonlederer) on Twitter
+- [Portfolio](https://anvarovb-portfolio.herokuapp.com/) Web Portfolio
 - [@bahtibekanvarov](https://instagram.com/bakhtibekanvarov) on Instagram
 - [Bahtibek Anvarov#4872](./) on Discord
