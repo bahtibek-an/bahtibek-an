@@ -14,6 +14,9 @@
 - [Introduction To Software Engineering](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
 - [Fullstack Engineering](https://upskill.us.qwasar.io/certificates/MTM1Ni1hbnZhcm92X2ItanVsLTIwMjEtMzAtYzQ0ZQ==) Qwasar
 - [Introduction To Fullstack Development](https://upskill.us.qwasar.io/certificates/MTIwMy1hbnZhcm92X2ItbWFyLTIwMjEtMTEtZWUwZA==) Qwasar
+- [Advanced Backend Development](https://upskill.us.qwasar.io/certificates/MTI1NC1hbnZhcm92X2ItbWF5LTIwMjEtMjAtNTYyMw==) Qwasar
+- [Advanced Java Development](https://upskill.us.qwasar.io/certificates/MTQxOC1hbnZhcm92X2ItZmViLTIwMjItMDYtMWMyZA==) Qwasar
+- [Advanced Frontend Development](https://upskill.us.qwasar.io/certificates/MTI1Mi1hbnZhcm92X2ItbWF5LTIwMjEtMjAtYzIyZg==) Qwasar
 
 ## Contact
 - [Portfolio](https://anvarovb-portfolio.herokuapp.com/) My Website
