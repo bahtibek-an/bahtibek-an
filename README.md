@@ -19,7 +19,4 @@
 - [Advanced Frontend Development](https://upskill.us.qwasar.io/certificates/MTI1Mi1hbnZhcm92X2ItbWF5LTIwMjEtMjAtYzIyZg==) Qwasar
 
 ## Contact
-- [Portfolio](https://anvarovb-portfolio.herokuapp.com/) My Website
 - [bahtibekanvarov@gmail.com](./) Email
-- [@bakhtibekanvarov](https://instagram.com/bakhtibekanvarov) on Instagram
-- [Bahtibek Anvarov#4872](./) on Discord
